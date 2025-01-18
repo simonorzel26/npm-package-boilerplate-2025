@@ -1,5 +1,5 @@
 
-# TS NPM Package Boilerplate (2024)
+# TS NPM Package Boilerplate (2025)
 
 This TypeScript NPM package boilerplate is designed to kickstart the development of TypeScript libraries for Node.js and the browser. It features a modern build setup with TypeScript, leveraging `tsup` for bundling and `@changesets/cli` for version management. The package exports a simple function as an example to demonstrate the setup.
 
@@ -21,10 +21,10 @@ This TypeScript NPM package boilerplate is designed to kickstart the development
 
 ### Step 1: Clone the Boilerplate Repository
 
-First, clone the existing repository `simonorzel26/npm-package-boilerplate-2024` to your local machine. This step involves copying all the files from the original repository.
+First, clone the existing repository `simonorzel26/npm-package-boilerplate-2025` to your local machine. This step involves copying all the files from the original repository.
 
 ```bash
-git clone https://github.com/simonorzel26/npm-package-boilerplate-2024.git <your-new-repository-name>
+git clone https://github.com/simonorzel26/npm-package-boilerplate-2025.git <your-new-repository-name>
 cd <your-new-repository-name>
 ```
 
@@ -45,7 +45,7 @@ Now, initialize a new git repository:
 ```bash
 git init
 git add .
-git commit -m "Initial commit based on npm-package-boilerplate-2024"
+git commit -m "Initial commit based on npm-package-boilerplate-2025"
 ```
 
 ### Step 4: Create a New Repository on GitHub
@@ -114,7 +114,7 @@ Contributions are welcome! Please submit a pull request or create an issue for a
 
 ## License
 
-This project is open-sourced under the MIT License. See the [LICENSE](https://github.com/simonorzel26/ts-npm-package-boilerplate-2024/blob/main/LICENSE) file for more details.
+This project is open-sourced under the MIT License. See the [LICENSE](https://github.com/simonorzel26/ts-npm-package-boilerplate-2025/blob/main/LICENSE) file for more details.
 
 ## Author
 
